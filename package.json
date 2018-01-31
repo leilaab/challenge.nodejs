@@ -1,0 +1,27 @@
+{
+  "name": "challenge_lilian",
+  "version": "1.0.0",
+  "description": "include table, progress",
+  "main": "text.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "default.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leilaab/challenge.nodejs.git"
+  },
+  "keywords": [
+    "node.js",
+    "table",
+    "progress"
+  ],
+  "author": "leila a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leilaab/challenge.nodejs/issues"
+  },
+  "homepage": "https://github.com/leilaab/challenge.nodejs#readme"
+}
